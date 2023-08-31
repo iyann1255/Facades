@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6289516947204@s.whatsapp.net","6282116587165@s.whatsapp.net","6285866392388@s.whatsapp.net"],
+    "ownerName": "AiraShop",
+    "instagram" : "https://instagram.com/butuhproses0",
+    "gcwa" : "https://chat.whatsapp.com/GOdtUKyFn04ECxqqOrFf4G",
+    "botName": "AiraShop",
+    "footer": "AiraShop",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "PHUuHo4b2nErbAZ",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
